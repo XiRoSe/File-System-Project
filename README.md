@@ -10,16 +10,25 @@ Prior-Knowledge needed in order to test the application:
 
   Command List: 
                   1.addFile(parentDirName,fileName,fileSize).
+                  
                   2.addDir(parentDirName,dirName).
+                  
                   3.delete(name).
+                  
                   4.showFileSystem()
-
+                  
   Examples:
                   adding a file - addFile(Root,file1,450).
+                  
                   adding a directory - addDir(Root,dir1).
-        	  deleting a file - delete(file1), or a dir delete(dir1).
+                  
+        	        deleting a file - delete(file1), or a dir delete(dir1).
+            
                   showing the file system - showFileSystem().
 
    P.S - Very Important~!
                              1.the Root directory is the first and the main directory.
-                             2.all the commands and files are case sensitive and must be typed correctly.                                                              3.I hope you liked the program!.
+                             
+                             2.all the commands and files are case sensitive and must be typed correctly.
+                             
+                             3.I hope you liked the program!.
