@@ -24,7 +24,7 @@ Prior-Knowledge needed in order to test the application:
                   
                   adding a directory - addDir(Root,dir1).
                   
-        	        deleting a file - delete(file1), or a dir delete(dir1).
+        	      deleting a file - delete(file1), or a dir delete(dir1).
             
                   showing the file system - showFileSystem().
 
