@@ -1,6 +1,6 @@
 # file-system
 
-File System project with a cmd look-a-like front, concurrent controller & a back-end File System.
+File System project with a cmd look-a-like front, concurrent controller & a back-end File System logic.
 The file system data-structure contains a multiple children tree, which each node is a map object, and those are the directories,
 which they contains inner directories & files and so on, with an inner lexicographic searching tree.
 Contains Parameter Runnable class, which is an extension of the consumer logic, with three parameters implementing Runnable in order to simplify the controller code.
